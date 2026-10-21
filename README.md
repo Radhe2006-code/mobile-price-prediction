@@ -60,7 +60,12 @@ How to Run Locally
 
 Screenshots
 
-Screenshots of the application and example predictions will be added here.
+
+### Application Interface
+![Mobile Price Prediction App](app-interface.png)
+
+### Example Prediction
+![Mobile Price Prediction Result](prediction-result.png)
 
 Disclaimer
 
